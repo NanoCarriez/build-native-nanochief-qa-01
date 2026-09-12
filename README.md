@@ -1,6 +1,7 @@
 # Pulso Mini
 
 BUILD_NATIVE_QA_EXPORT_READY_01
+NANOCHIEF_BUILD_AUTOREPAIR_01_READY
 
 MiniApp de prueba nativa (`BUILD_NATIVE_QA_01`).
 
@@ -23,6 +24,7 @@ TanStack Start, React 19, Tailwind v4. Sin auth y sin base de datos. `VITE_AUTH_
 ## Handoff
 
 - Marcador de export: `BUILD_NATIVE_QA_EXPORT_READY_01`
+- Marcador de autorepair: `NANOCHIEF_BUILD_AUTOREPAIR_01_READY`
 - Public URL: https://dreamapp.grok.me/
 - Repo: https://github.com/NanoCarriez/build-native-nanochief-qa-01 (`main`)
 
