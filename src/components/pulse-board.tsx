@@ -4,6 +4,7 @@ import { cn } from "@/lib/utils";
 
 const STORAGE_KEY = "pulso-mini-state-v1";
 const QA_MARKER = "BUILD_NATIVE_QA_01";
+/** BUILD_NATIVE_QA_EXPORT_READY_01 — https://dreamapp.grok.me/ */
 
 export type PulseId = "verde" | "amarillo" | "rojo";
 

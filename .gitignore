@@ -8,7 +8,10 @@ dist
 *.log
 screenshots
 artifacts
-.grok
+.grok/skills
+.grok/references
+.grok/og-pending
+.grok/status
 .node_modules.lock
 .project_id
 .env
